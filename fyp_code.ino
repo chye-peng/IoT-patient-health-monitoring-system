@@ -17,7 +17,7 @@ float heart_rate;
 int SpO2;
 
 char ssid[] = "cp";
-char pass[] = "chyepeng";
+char pass[] = "xxxxxxxxxx";
 
 // MQTT Broker
 const char *mqtt_broker = "broker.emqx.io";
