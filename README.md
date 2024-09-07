@@ -1,3 +1,6 @@
+# IoT based patient health monitoring system
+This project centres on building responsive and visually engaging web applications while integrating IoT systems to solve real-world problems. From crafting seamless user experiences to developing intelligent IoT solutions, I thrive on transforming ideas into functional digital products.
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
@@ -231,4 +234,3 @@ vendor/bin/codecept run functional,unit --coverage --coverage-html --coverage-xm
 ```
 
 You can see code coverage output under the `tests/_output` directory.
-# iot_patient_health_monitoring_system
