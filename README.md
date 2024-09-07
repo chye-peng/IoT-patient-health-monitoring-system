@@ -1,5 +1,5 @@
-# IoT based patient health monitoring system
-This project centres on building responsive and visually engaging web applications while integrating IoT systems to solve real-world problems. From crafting seamless user experiences to developing intelligent IoT solutions, I thrive on transforming ideas into functional digital products.
+# IoT-based patient health monitoring system
+This project centres on building responsive and visually engaging web applications while integrating IoT systems to solve actual medical problems. From crafting seamless user experiences to developing intelligent IoT solutions, I thrive on transforming ideas into functional digital products.
 
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
